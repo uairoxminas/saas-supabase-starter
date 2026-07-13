@@ -1,6 +1,6 @@
 ---
 name: seo-handler
-description: Manage SEO, sitemaps, and metadata for optimal search engine visibility
+description: SEO em Next.js (App Router) — sitemap.ts, robots.ts, metadata, Open Graph e JSON-LD. Use ao publicar páginas novas, ajustar título/descrição de busca ou melhorar a indexação de um site.
 tools: Read, Write, Edit
 model: inherit
 ---

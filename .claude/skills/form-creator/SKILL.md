@@ -1,6 +1,6 @@
 ---
 name: form-creator
-description: Create forms, validation schemas, and CRUD API endpoints. Use when building new data entry features or managing existing forms.
+description: Cria formulários React com react-hook-form + Zod, schemas de validação e endpoints CRUD em Next.js. Use ao construir telas de entrada de dados ou ajustar formulários existentes neste stack.
 ---
 
 # Form Creator

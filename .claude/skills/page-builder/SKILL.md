@@ -1,5 +1,6 @@
 ---
-description: Helper for building landing pages and marketing sites using Tailark components.
+name: page-builder
+description: Monta landing pages e sites de marketing em Next.js (App Router) com componentes Tailark e shadcn/ui. Use ao criar ou reestruturar páginas públicas — hero, pricing, features, depoimentos.
 deps: ["ui-handler"]
 ---
 

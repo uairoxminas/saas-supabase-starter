@@ -1,6 +1,6 @@
 ---
 name: copywriter
-description: Write high-converting, punchy, and professional copy for landing pages, emails, and marketing materials.
+description: Escreve copy de conversão — landing pages, e-mails, anúncios e material de marketing. Use ao criar ou reescrever texto voltado a persuadir e vender (headline, CTA, descrição de produto, sequência de e-mail).
 tools: Write, Edit
 model: inherit
 ---

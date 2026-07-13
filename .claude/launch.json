@@ -1,0 +1,29 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "next",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["exec", "next", "dev", "--turbopack"],
+      "port": 3000
+    },
+    {
+      "name": "inngest",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["exec", "inngest-cli", "dev", "-p", "8288"],
+      "port": 8288
+    },
+    {
+      "name": "email",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["exec", "email", "dev", "--dir", "./src/emails", "--port", "3001"],
+      "port": 3001
+    },
+    {
+      "name": "dev-all",
+      "runtimeExecutable": "pnpm",
+      "runtimeArgs": ["dev"],
+      "port": 3000
+    }
+  ]
+}
